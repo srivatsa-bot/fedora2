@@ -13,6 +13,8 @@
 about:config
 layers.acceleration.force-enabled
 gfx.webrender.all
+
+settings - turn on dram
 ```
 10) Install Gnome Extensions - `dnf install chrome-gnome-shell gnome-extensions-app`
 11) install kde connect - `sudo dnf install kdeconnectd`
