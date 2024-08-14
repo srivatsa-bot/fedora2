@@ -78,5 +78,6 @@ To half your current touchpad scroll speed with a keypad size of 130mm x 80mm, y
 If you find that the scroll speed is still not ideal, you can repeat the process and further adjust the dimensions as needed.
 ```
 my touch pad size is 130 X 80mm. i want to decrease the scrool speed by 60% so my value are 65 X 40. turn on touchpad accelaration in tweaks for better experience.
+
 13) Dual boot bluetooth issue - `https://www.youtube.com/watch?v=BprSnu6KWTA`
 
