@@ -81,3 +81,12 @@ my touch pad size is 130 X 80mm. i want to decrease the scrool speed by 60% so m
 
 13) Dual boot bluetooth issue - `https://www.youtube.com/watch?v=BprSnu6KWTA`
 
+
+
+***FOR CODING***
+1) dont need to install python comes by default
+2) to insatll c/cpp - `sudo dnf install gcc-c++ -y`. to verify do `gcc --version` in terminal
+3) 
+4)
+
+
