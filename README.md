@@ -80,6 +80,42 @@ If you find that the scroll speed is still not ideal, you can repeat the process
 my touch pad size is 130 X 80mm. i want to decrease the scrool speed by 60% so my value are 65 X 40. turn on touchpad accelaration in tweaks for better experience.
 
 13) Dual boot bluetooth issue - `https://www.youtube.com/watch?v=BprSnu6KWTA`
+14) to enable pinch to zoom in edge
+    ```
+    To navigate to the directory `~/.var/app/com.microsoft.Edge/config/` in Fedora, you can follow these steps:
+
+1. **Open the Terminal**:
+   - You can do this by pressing `Ctrl + Alt + T` or searching for "Terminal" in your applications menu.
+
+2. **Navigate to the Directory**:
+   - Use the `cd` (change directory) command to go to the specified path. Enter the following command:
+     ```bash
+     cd ~/.var/app/com.microsoft.Edge/config/
+     ```
+
+3. **Create or Edit the Configuration File**:
+   - If the `edge-flags.conf` file doesn't exist, you can create it using a text editor like `nano` or `vim`. For example, to create or edit the file with `nano`, use:
+     ```bash
+     nano edge-flags.conf
+     ```
+   - Add your custom flags, each on a new line. For example:
+     ```plaintext
+     --ozone-platform=wayland
+     --enable-features=UseOzonePlatform
+     ```
+
+4. **Save and Exit**:
+   - If you're using `nano`, save the file by pressing `Ctrl + O`, then press `Enter`, and exit by pressing `Ctrl + X`.
+
+This should help you set up the custom flags for Microsoft Edge on your Fedora system. If you have any more questions or need further assistance, feel free to ask! 😊
+
+Source: Conversation with Copilot, 17/8/2024
+(1) Changing config directory in Linux : r/edge - Reddit. https://www.reddit.com/r/edge/comments/p06agd/changing_config_directory_in_linux/.
+(2) Any way to enable hardware acceleration for video decode? #51 - GitHub. https://github.com/flathub/com.microsoft.Edge/issues/51.
+(3) How to Install Microsoft Edge on Fedora 40 or 39 - LinuxCapable. https://www.linuxcapable.com/install-microsoft-edge-on-fedora-linux/.
+(4) undefined. https://www.linuxuprising.com/2021/01/how-to-enable-hardware-accelerated.html.
+(5) Getty Images. https://www.gettyimages.com/detail/news-photo/edge-logo-displayed-on-a-phone-screen-and-microsoft-logo-news-photo/1246873560.
+    ```
 
 
 
