@@ -110,12 +110,7 @@ To navigate to the directory `~/.var/app/com.microsoft.Edge/config/` in Fedora, 
 
 This should help you set up the custom flags for Microsoft Edge on your Fedora system. If you have any more questions or need further assistance, feel free to ask! 😊
 
-Source: Conversation with Copilot, 17/8/2024
-(1) Changing config directory in Linux : r/edge - Reddit. https://www.reddit.com/r/edge/comments/p06agd/changing_config_directory_in_linux/.
-(2) Any way to enable hardware acceleration for video decode? #51 - GitHub. https://github.com/flathub/com.microsoft.Edge/issues/51.
-(3) How to Install Microsoft Edge on Fedora 40 or 39 - LinuxCapable. https://www.linuxcapable.com/install-microsoft-edge-on-fedora-linux/.
-(4) undefined. https://www.linuxuprising.com/2021/01/how-to-enable-hardware-accelerated.html.
-(5) Getty Images. https://www.gettyimages.com/detail/news-photo/edge-logo-displayed-on-a-phone-screen-and-microsoft-logo-news-photo/1246873560.
+
 
 ```
 
