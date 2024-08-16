@@ -81,8 +81,9 @@ my touch pad size is 130 X 80mm. i want to decrease the scrool speed by 60% so m
 
 13) Dual boot bluetooth issue - `https://www.youtube.com/watch?v=BprSnu6KWTA`
 14) to enable pinch to zoom in edge
-    ```
-    To navigate to the directory `~/.var/app/com.microsoft.Edge/config/` in Fedora, you can follow these steps:
+
+   ```
+To navigate to the directory `~/.var/app/com.microsoft.Edge/config/` in Fedora, you can follow these steps:
 
 1. **Open the Terminal**:
    - You can do this by pressing `Ctrl + Alt + T` or searching for "Terminal" in your applications menu.
@@ -115,7 +116,8 @@ Source: Conversation with Copilot, 17/8/2024
 (3) How to Install Microsoft Edge on Fedora 40 or 39 - LinuxCapable. https://www.linuxcapable.com/install-microsoft-edge-on-fedora-linux/.
 (4) undefined. https://www.linuxuprising.com/2021/01/how-to-enable-hardware-accelerated.html.
 (5) Getty Images. https://www.gettyimages.com/detail/news-photo/edge-logo-displayed-on-a-phone-screen-and-microsoft-logo-news-photo/1246873560.
-    ```
+
+```
 
 
 
